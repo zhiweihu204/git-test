@@ -9,3 +9,7 @@ print("ZZZZZ")
 
 def print_hi(name):
     print('Hello, ' + name)
+
+
+def fix():
+    print_hi('PyCharm')

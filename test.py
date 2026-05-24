@@ -13,3 +13,7 @@ def print_hi(name):
 
 def fix():
     print_hi('PyCharm')
+
+
+def main():
+    print_hi('PyCharm')
